@@ -24,30 +24,35 @@ Welcome to the EpochIIITS Publication Code Repository! This repository contains 
    ├── 📁 Deep Learning
    │   ├── 📁 Article_Name
    │   │   ├── code_files/
+   │   │   ├── models/
    │   │   ├── README.md
    │   │   └── dataset/
    │   └── ...
    ├── 📁 Computer Vision
    │   ├── 📁 Article_Name
    │   │   ├── code_files/
+   │   │   ├── models/
    │   │   ├── README.md
    │   │   └── dataset/
    │   └── ...
    ├── 📁 Natural Language Processing + GenerativeAI
    │   ├── 📁 Article_Name
    │   │   ├── code_files/
+   │   │   ├── models/
    │   │   ├── README.md
    │   │   └── dataset/
    │   └── ...
    ├── 📁 AI for Society
    │   ├── 📁 Article_Name
    │   │   ├── code_files/
+   │   │   ├── models/
    │   │   ├── README.md
    │   │   └── dataset/
    │   └── ...
    └── 📁 Brain-Computer Interface
        ├── 📁 Article_Name
        │   ├── code_files/
+       │   ├── models/
        │   ├── README.md
        │   └── dataset/
        └── ...
