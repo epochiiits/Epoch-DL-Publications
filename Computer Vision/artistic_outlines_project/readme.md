@@ -1,5 +1,10 @@
 # Creating Artistic Outlines: Combining Python, OpenCV, and Turtle Graphics 🎨🐍
 
+## Resources
+
+- Article on Medium: [Creating Artistic Outlines: Combining Python, OpenCV, and Turtle Graphics](https://medium.com/epochiiits/creating-artistic-outlines-combining-python-opencv-and-turtle-graphics-178a1faab856)
+- YouTube Explanation: [Watch the Tutorial](https://www.youtube.com/watch?v=-uKKJe1hFYY)
+
 ## Overview
 In the realm of digital art and image processing, Python offers powerful tools like OpenCV and Turtle graphics to transform raw images into visually captivating artworks. This tutorial explores how to leverage these tools to create intricate outlines of images, turning simple photographs into stylized sketches.
 
