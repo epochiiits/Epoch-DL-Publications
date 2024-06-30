@@ -50,7 +50,7 @@ artistic_outlines_project/
 │   ├── Scripts/
 │   └── ...
 │
-├── 1.png
+├── 1.png 
 ├── outline_image.py
 └── processed_image.png
 ```
