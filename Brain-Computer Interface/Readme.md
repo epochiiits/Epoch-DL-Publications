@@ -5,10 +5,12 @@ Maintain the following structure while contributing to projects under this repos
    └── 📁 Brain-Computer Interface
        ├── 📁 Article_Name
        │   ├── code_files/
+       │   ├── models/
        │   ├── README.md
        │   └── dataset/
        ├── 📁 Article_Name
        │   ├── code_files/
+       │   ├── models/
        │   |── README.md
        │   └── dataset/
        └── ...
