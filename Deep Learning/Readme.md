@@ -3,11 +3,11 @@ Maintain the following structure while contributing to projects under this repos
 ```
 📁 /EpochIIITS-Publications
    └── 📁 Deep Learning
-       ├── 📁 Article1_Name
+       ├── 📁 Article_Name
        │   ├── code_files/
        │   ├── README.md
        │   └── dataset/
-       ├── 📁 Article2_Name
+       ├── 📁 Article_Name
        │   ├── code_files/
        │   |── README.md
        │   └── dataset/
